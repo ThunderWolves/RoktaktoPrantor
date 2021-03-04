@@ -2,7 +2,7 @@
  OurProject/Binaries/**
  OurProject/DerivedDataCache/**
  OurProject/Intermediate/**
- OurProject/Saved/**
+ OurProject/Saved/
  OurProject/Build/**
  
  # Visual Studio solutions
