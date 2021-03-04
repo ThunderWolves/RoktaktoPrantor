@@ -1,21 +1,22 @@
- # UE4 Project directories to ignore
- OurProject/Binaries/**
- OurProject/DerivedDataCache/**
- OurProject/Intermediate/**
- OurProject/Saved/
- OurProject/Build/**
+# Folders 
+OurProject/Binaries/
+OurProject/DerivedDataCache/
+OurProject/Intermediate/
+OurProject/Saved/
+OurProject/Build/
  
- # Visual Studio solutions
- OurProject/*.sln
- OurProject/*.sdf
- OurProject/*.opensdf
- OurProject/*.suo
+# Visual Studio solutions
+OurProject/*.sln
+OurProject/*.sdf
+OurProject/*.opensdf 
+OurProject/*.suo
  
- # Linux Project files
- OurProject/*.pro
- OurProject/*.kdev4
- OurProject/CMakeLists.txt
- OurProject/Makefile
+# Linux Project files
+OurProject/*.pro
+OurProject/*.kdev4
+OurProject/CMakeLists.txt
+OurProject/Makefile
  
- # Xcode Project files
- OurProject/*.xcodeproj
+# Xcode Project files
+OurProject/*.xcodeproj
+
