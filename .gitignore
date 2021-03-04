@@ -4,6 +4,7 @@ OurProject/DerivedDataCache/
 OurProject/Intermediate/
 OurProject/Saved/
 OurProject/Build/
+OurProject/Content/StarterContent/
  
 # Visual Studio solutions
 OurProject/*.sln
