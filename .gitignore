@@ -1,9 +1,9 @@
  # UE4 Project directories to ignore
- OurProject/Binaries/
- OurProject/DerivedDataCache/
- OurProject/Intermediate/
- OurProject/Saved/
- OurProject/Build/
+ OurProject/Binaries/**
+ OurProject/DerivedDataCache/**
+ OurProject/Intermediate/**
+ OurProject/Saved/**
+ OurProject/Build/**
  
  # Visual Studio solutions
  OurProject/*.sln
