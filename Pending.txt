@@ -1,0 +1,6 @@
+Ashiq:
+Bow animations are done except for bow string pulling
+HUD hiding and making visible is not done {done half in bp_base}
+Bow pawn again and take bow form feild is not done
+Bow movement is not done
+Health bar not done
