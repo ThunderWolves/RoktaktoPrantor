@@ -23,3 +23,5 @@ OurProject/*.xcodeproj
 
 OurProject/Content/Maps/Map2_BuiltData.uasset
 OurProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+*.uasset
+OurProject/.vs/OurProject/v16/Browse.VC.db
