@@ -44,6 +44,8 @@
     <td><img src="Previews/pic13.png" alt="Gameplay" width="250"></td>
     <td><img src="Previews/pic14.png" alt="Gameplay" width="250"></td>
   </tr>
+</table>
+<table>
   <tr>Fight at the Fourth Science Building and the Ending</tr>
   <tr>
     <td><img src="Previews/pic15.png" alt="Home Screen" width="250"></td>
