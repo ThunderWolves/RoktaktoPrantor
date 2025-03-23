@@ -19,39 +19,35 @@
 
 ## Screenshots
 <table>
-  <tr> Our Main Gate and Administrative Building</tr>
+  <tr> Starting of the Game and The Administrative Building</tr>
   <tr>
-    <td><img src="Previews/pic1.png" alt="Home Screen" width="250"></td>
-    <td><img src="Previews/pic2.png" alt="Gameplay" width="250"></td>
-    <td><img src="Previews/pic4.png" alt="Gameplay" width="250"></td>
-    <td><img src="Previews/pic5.png" alt="Gameplay" width="250"></td>
+    <td><img src="Previews/pic1.png" alt="Home Screen" width="320"></td>
+    <td><img src="Previews/pic2.png" alt="Gameplay" width="320"></td>
+    <td><img src="Previews/pic5.png" alt="Gameplay" width="320"></td>
   </tr>
 </table>
 <table>
   <tr> Inside our Administrative Building and Faculty of Fine Arts Building and Central Mosque</tr>
   <tr>
-    <td><img src="Previews/pic6.png" alt="Home Screen" width="250"></td>
-    <td><img src="Previews/pic7.png" alt="Gameplay" width="250"></td>
-    <td><img src="Previews/pic9.png" alt="Gameplay" width="250"></td>
-    <td><img src="Previews/pic10.png" alt="Gameplay" width="250"></td>
+    <td><img src="Previews/pic7.png" alt="Gameplay" width="320"></td>
+    <td><img src="Previews/pic9.png" alt="Gameplay" width="320"></td>
+    <td><img src="Previews/pic10.png" alt="Gameplay" width="320"></td>
   </tr>
 </table>
 <table>
   <tr>Fight at the Central Mosque and Helicopter Landing on the Fourth Science Building</tr>
   <tr>
-    <td><img src="Previews/pic11.png" alt="Home Screen" width="250"></td>
-    <td><img src="Previews/pic12.png" alt="Gameplay" width="250"></td>
-    <td><img src="Previews/pic13.png" alt="Gameplay" width="250"></td>
-    <td><img src="Previews/pic14.png" alt="Gameplay" width="250"></td>
+    <td><img src="Previews/pic11.png" alt="Home Screen" width="320"></td>
+    <td><img src="Previews/pic12.png" alt="Gameplay" width="320"></td>
+    <td><img src="Previews/pic13.png" alt="Gameplay" width="320"></td>
   </tr>
 </table>
 <table>
   <tr>Fight at the Fourth Science Building and the Ending</tr>
   <tr>
-    <td><img src="Previews/pic15.png" alt="Home Screen" width="250"></td>
-    <td><img src="Previews/pic16.png" alt="Gameplay" width="250"></td>
-    <td><img src="Previews/pic17.png" alt="Gameplay" width="250"></td>
-    <td><img src="Previews/pic18.png" alt="Gameplay" width="250"></td>
+    <td><img src="Previews/pic15.png" alt="Home Screen" width="320"></td>
+    <td><img src="Previews/pic16.png" alt="Gameplay" width="320"></td>
+    <td><img src="Previews/pic18.png" alt="Gameplay" width="320"></td>
   </tr>
 </table>
 
